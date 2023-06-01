@@ -1,0 +1,200 @@
+body {
+    font-family: 'Monospace', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+/* Container holding the image and the text */
+body {
+    background-color: black;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+.container {
+    height: 850px;
+}
+
+.namebox {
+    color: white;
+    border: 1px double;
+    text-align: center;
+    background-color: orange;
+    height: 70px;
+    padding: 40px;
+
+}
+
+.carterpicture {
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+    align-items: center;
+    
+    justify-content: center;
+    /*the padding is for centering the picture to the middle of the screen. (REMOVE PADDING AND USE DIFFERENT SOLUTION TO FIX) */
+}
+
+img {
+    color: white;
+    border: 1px double;
+}
+
+.accomplishments {
+    color: white;
+    border: 1px double;
+    text-align: center;
+    background-color: orange;
+    width: 550px;
+    height: 70px;
+    padding: 40px;
+    display: inline-block;
+}
+
+.aboutme {
+    color: white;
+    border: 1px double;
+    text-align: center;
+    background-color: orange;
+    width: 550px;
+    height: 70px;
+    padding: 40px;
+    display: inline-block;
+}
+
+.contact {
+    color: white;
+    border: 1px double;
+    text-align: center;
+    background-color: orange;
+    width: 520px;
+    height: 70px;
+    padding: 40px;
+    display: inline-block;
+}
+
+.contacts {
+    color: white;
+    border: 1px double;
+    text-align: center;
+    background-color: orange;
+    height: 70px;
+    padding: 40px;
+
+}
+
+.accomplishments2 {
+    color: white;
+    border: 1px double;
+    text-align: center;
+    background-color: orange;
+    height: 70px;
+    padding: 40px;
+
+}
+
+.mp1 {
+    color: white;
+    border: 1px double;
+    text-align: center;
+    background-color: orange;
+    width: 425px;
+    height: 350px;
+    padding: 20px;
+    display: inline-block;
+    word-wrap: break-word;
+}
+
+.mp2 {
+    color: white;
+    border: 1px double;
+    text-align: center;
+    background-color: orange;
+    width: 425px;
+    height: 350px;
+    padding: 20px;
+    display: inline-block;
+    word-wrap: break-word;
+}
+
+.mp3 {
+    color: white;
+    border: 1px double;
+    text-align: center;
+    background-color: orange;
+    width: 425px;
+    height: 330px;
+    padding: 20px;
+    display: inline-block;
+    word-wrap: break-word;
+}
+
+.mp4 {
+    color: white;
+    border: 1px double;
+    text-align: center;
+    background-color: orange;
+    width: 429px;
+    height: 320px;
+    padding: 20px;
+    display: inline-block;
+    word-wrap: break-word;
+}
+
+.aboutme2 {
+    color: white;
+    border: 1px double;
+    text-align: center;
+    background-color: orange;
+    height: 70px;
+    padding: 40px;
+
+}
+
+.aboutmebox1 {
+    color: white;
+    border: 1px double;
+    text-align: center;
+    background-color: orange;
+    width: 425px;
+    height: 700px;
+    padding: 20px;
+    display: inline-block;
+    word-wrap: break-word;
+}
+
+.aboutmebox2 {
+    color: white;
+    border: 1px double;
+    text-align: center;
+    background-color: orange;
+    width: 425px;
+    height: 600px;
+    padding: 20px;
+    display: inline-block;
+    word-wrap: break-word;
+}
+
+.aboutmebox3 {
+    color: white;
+    border: 1px double;
+    text-align: center;
+    background-color: orange;
+    width: 425px;
+    height: 700px;
+    padding: 20px;
+    display: inline-block;
+    word-wrap: break-word;
+}
+
+.aboutmebox4 {
+    color: white;
+    border: 1px double;
+    text-align: center;
+    background-color: orange;
+    width: 425px;
+    height: 600px;
+    padding: 20px;
+    display: inline-block;
+    word-wrap: break-word;
+}
